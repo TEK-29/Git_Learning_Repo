@@ -6,6 +6,6 @@ DepID,DepName
 5,Data Engineering
 6,FrontEnd Team
 7,BackEnd Team
-8,Payroll
-9,Testing
+8,Payroll Team
+9,Testing Team
 10,Admin & Transportation
